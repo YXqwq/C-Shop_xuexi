@@ -1,0 +1,14 @@
+D:\vs\CSharp\项目\2025\CSharp入门\测试项目\bin\Debug\net8.0\测试项目.exe
+D:\vs\CSharp\项目\2025\CSharp入门\测试项目\bin\Debug\net8.0\测试项目.deps.json
+D:\vs\CSharp\项目\2025\CSharp入门\测试项目\bin\Debug\net8.0\测试项目.runtimeconfig.json
+D:\vs\CSharp\项目\2025\CSharp入门\测试项目\bin\Debug\net8.0\测试项目.dll
+D:\vs\CSharp\项目\2025\CSharp入门\测试项目\bin\Debug\net8.0\测试项目.pdb
+D:\vs\CSharp\项目\2025\CSharp入门\测试项目\obj\Debug\net8.0\测试项目.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\CSharp\项目\2025\CSharp入门\测试项目\obj\Debug\net8.0\测试项目.AssemblyInfoInputs.cache
+D:\vs\CSharp\项目\2025\CSharp入门\测试项目\obj\Debug\net8.0\测试项目.AssemblyInfo.cs
+D:\vs\CSharp\项目\2025\CSharp入门\测试项目\obj\Debug\net8.0\测试项目.csproj.CoreCompileInputs.cache
+D:\vs\CSharp\项目\2025\CSharp入门\测试项目\obj\Debug\net8.0\测试项目.dll
+D:\vs\CSharp\项目\2025\CSharp入门\测试项目\obj\Debug\net8.0\refint\测试项目.dll
+D:\vs\CSharp\项目\2025\CSharp入门\测试项目\obj\Debug\net8.0\测试项目.pdb
+D:\vs\CSharp\项目\2025\CSharp入门\测试项目\obj\Debug\net8.0\测试项目.genruntimeconfig.cache
+D:\vs\CSharp\项目\2025\CSharp入门\测试项目\obj\Debug\net8.0\ref\测试项目.dll

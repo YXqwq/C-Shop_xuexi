@@ -1,0 +1,14 @@
+D:\vs\CSharp\项目\2025\CSharp入门\lesson_1 第一个应用程序\bin\Debug\net8.0\lesson_1 第一个应用程序.exe
+D:\vs\CSharp\项目\2025\CSharp入门\lesson_1 第一个应用程序\bin\Debug\net8.0\lesson_1 第一个应用程序.deps.json
+D:\vs\CSharp\项目\2025\CSharp入门\lesson_1 第一个应用程序\bin\Debug\net8.0\lesson_1 第一个应用程序.runtimeconfig.json
+D:\vs\CSharp\项目\2025\CSharp入门\lesson_1 第一个应用程序\bin\Debug\net8.0\lesson_1 第一个应用程序.dll
+D:\vs\CSharp\项目\2025\CSharp入门\lesson_1 第一个应用程序\bin\Debug\net8.0\lesson_1 第一个应用程序.pdb
+D:\vs\CSharp\项目\2025\CSharp入门\lesson_1 第一个应用程序\obj\Debug\net8.0\lesson_1 第一个应用程序.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\CSharp\项目\2025\CSharp入门\lesson_1 第一个应用程序\obj\Debug\net8.0\lesson_1 第一个应用程序.AssemblyInfoInputs.cache
+D:\vs\CSharp\项目\2025\CSharp入门\lesson_1 第一个应用程序\obj\Debug\net8.0\lesson_1 第一个应用程序.AssemblyInfo.cs
+D:\vs\CSharp\项目\2025\CSharp入门\lesson_1 第一个应用程序\obj\Debug\net8.0\lesson_1 第一个应用程序.csproj.CoreCompileInputs.cache
+D:\vs\CSharp\项目\2025\CSharp入门\lesson_1 第一个应用程序\obj\Debug\net8.0\lesson_1 第一个应用程序.dll
+D:\vs\CSharp\项目\2025\CSharp入门\lesson_1 第一个应用程序\obj\Debug\net8.0\refint\lesson_1 第一个应用程序.dll
+D:\vs\CSharp\项目\2025\CSharp入门\lesson_1 第一个应用程序\obj\Debug\net8.0\lesson_1 第一个应用程序.pdb
+D:\vs\CSharp\项目\2025\CSharp入门\lesson_1 第一个应用程序\obj\Debug\net8.0\lesson_1 第一个应用程序.genruntimeconfig.cache
+D:\vs\CSharp\项目\2025\CSharp入门\lesson_1 第一个应用程序\obj\Debug\net8.0\ref\lesson_1 第一个应用程序.dll

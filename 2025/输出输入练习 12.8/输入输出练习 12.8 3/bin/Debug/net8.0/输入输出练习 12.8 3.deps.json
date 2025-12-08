@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "输入输出练习 12.8 3/1.0.0": {
+        "runtime": {
+          "输入输出练习 12.8 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "输入输出练习 12.8 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
