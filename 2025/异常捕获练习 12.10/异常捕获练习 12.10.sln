@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "异常捕获练习 12.10", "异常捕获练习 12.10\异常捕获练习 12.10.csproj", "{D75DB568-4CF1-4475-9715-3C9E5E33307F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D75DB568-4CF1-4475-9715-3C9E5E33307F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75DB568-4CF1-4475-9715-3C9E5E33307F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75DB568-4CF1-4475-9715-3C9E5E33307F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75DB568-4CF1-4475-9715-3C9E5E33307F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {228A3AC7-2169-4008-B286-413C272A077E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "随机数练习 12.11/1.0.0": {
+        "runtime": {
+          "随机数练习 12.11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "随机数练习 12.11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "隐式转换练习 12.10/1.0.0": {
+        "runtime": {
+          "隐式转换练习 12.10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "隐式转换练习 12.10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
