@@ -1,0 +1,14 @@
+D:\vs\CSharp\项目\game\格林营救爱丽丝\格林营救爱丽丝\bin\Release\net8.0\格林营救爱丽丝.exe
+D:\vs\CSharp\项目\game\格林营救爱丽丝\格林营救爱丽丝\bin\Release\net8.0\格林营救爱丽丝.deps.json
+D:\vs\CSharp\项目\game\格林营救爱丽丝\格林营救爱丽丝\bin\Release\net8.0\格林营救爱丽丝.runtimeconfig.json
+D:\vs\CSharp\项目\game\格林营救爱丽丝\格林营救爱丽丝\bin\Release\net8.0\格林营救爱丽丝.dll
+D:\vs\CSharp\项目\game\格林营救爱丽丝\格林营救爱丽丝\bin\Release\net8.0\格林营救爱丽丝.pdb
+D:\vs\CSharp\项目\game\格林营救爱丽丝\格林营救爱丽丝\obj\Release\net8.0\格林营救爱丽丝.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\CSharp\项目\game\格林营救爱丽丝\格林营救爱丽丝\obj\Release\net8.0\格林营救爱丽丝.AssemblyInfoInputs.cache
+D:\vs\CSharp\项目\game\格林营救爱丽丝\格林营救爱丽丝\obj\Release\net8.0\格林营救爱丽丝.AssemblyInfo.cs
+D:\vs\CSharp\项目\game\格林营救爱丽丝\格林营救爱丽丝\obj\Release\net8.0\格林营救爱丽丝.csproj.CoreCompileInputs.cache
+D:\vs\CSharp\项目\game\格林营救爱丽丝\格林营救爱丽丝\obj\Release\net8.0\格林营救爱丽丝.dll
+D:\vs\CSharp\项目\game\格林营救爱丽丝\格林营救爱丽丝\obj\Release\net8.0\refint\格林营救爱丽丝.dll
+D:\vs\CSharp\项目\game\格林营救爱丽丝\格林营救爱丽丝\obj\Release\net8.0\格林营救爱丽丝.pdb
+D:\vs\CSharp\项目\game\格林营救爱丽丝\格林营救爱丽丝\obj\Release\net8.0\格林营救爱丽丝.genruntimeconfig.cache
+D:\vs\CSharp\项目\game\格林营救爱丽丝\格林营救爱丽丝\obj\Release\net8.0\ref\格林营救爱丽丝.dll

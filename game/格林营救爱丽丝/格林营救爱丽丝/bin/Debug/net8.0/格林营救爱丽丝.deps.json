@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "格林营救爱丽丝/1.0.0": {
+        "runtime": {
+          "格林营救爱丽丝.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "格林营救爱丽丝/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
