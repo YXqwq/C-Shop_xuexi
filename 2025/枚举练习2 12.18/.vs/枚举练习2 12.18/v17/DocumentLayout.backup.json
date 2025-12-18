@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs\\CSharp\\\u9879\u76EE\\2025\\\u679A\u4E3E\u7EC3\u4E602 12.18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{100468D2-626B-4B1F-8CB9-5EDE7D4D035C}|\u679A\u4E3E\u7EC3\u4E602 12.18\\\u679A\u4E3E\u7EC3\u4E602 12.18.csproj|d:\\vs\\csharp\\\u9879\u76EE\\2025\\\u679A\u4E3E\u7EC3\u4E602 12.18\\\u679A\u4E3E\u7EC3\u4E602 12.18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100468D2-626B-4B1F-8CB9-5EDE7D4D035C}|\u679A\u4E3E\u7EC3\u4E602 12.18\\\u679A\u4E3E\u7EC3\u4E602 12.18.csproj|solutionrelative:\u679A\u4E3E\u7EC3\u4E602 12.18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vs\\CSharp\\\u9879\u76EE\\2025\\\u679A\u4E3E\u7EC3\u4E602 12.18\\\u679A\u4E3E\u7EC3\u4E602 12.18\\Program.cs",
+              "RelativeDocumentMoniker": "\u679A\u4E3E\u7EC3\u4E602 12.18\\Program.cs",
+              "ToolTip": "D:\\vs\\CSharp\\\u9879\u76EE\\2025\\\u679A\u4E3E\u7EC3\u4E602 12.18\\\u679A\u4E3E\u7EC3\u4E602 12.18\\Program.cs",
+              "RelativeToolTip": "\u679A\u4E3E\u7EC3\u4E602 12.18\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T12:19:52.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "枚举练习3 12.18", "枚举练习3 12.18\枚举练习3 12.18.csproj", "{E797909D-034C-494A-8B6E-ECF1374CA980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E797909D-034C-494A-8B6E-ECF1374CA980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E797909D-034C-494A-8B6E-ECF1374CA980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E797909D-034C-494A-8B6E-ECF1374CA980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E797909D-034C-494A-8B6E-ECF1374CA980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DF714E3-365D-4C68-8D46-E53BD2E929F2}
+	EndGlobalSection
+EndGlobal
